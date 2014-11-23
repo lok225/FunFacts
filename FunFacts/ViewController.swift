@@ -6,6 +6,10 @@
 //  Copyright (c) 2014 Martin Lok. All rights reserved.
 //
 
+// WatchKit Version
+// App Version 2.0
+
+
 import UIKit
 import iAd
 
