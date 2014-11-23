@@ -1,0 +1,9 @@
+
+/* Class = "IBUILabel"; text = "An intreresting fact goes here"; ObjectID = "6wQ-jG-De3"; */
+"6wQ-jG-De3.text" = "En interessant Fun Fact";
+
+/* Class = "IBUILabel"; text = "Vidste du?"; ObjectID = "GIF-Fu-ELy"; */
+"GIF-Fu-ELy.text" = "Vidste du?";
+
+/* Class = "IBUIButton"; normalTitle = "Vis en anden Fun Fact"; ObjectID = "eBM-7F-wp8"; */
+"eBM-7F-wp8.normalTitle" = "Vis en anden Fun Fact";
